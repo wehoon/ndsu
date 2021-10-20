@@ -1,0 +1,13 @@
+---
+Language: Cpp
+BasedOnStyle: Chromium
+ColumnLimit: 100
+
+DerivePointerAlignment: false
+
+PointerAlignment: Left
+
+# Only sort headers in each include block
+SortIncludes: true
+IncludeBlocks: Preserve
+...
